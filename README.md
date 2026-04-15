@@ -23,3 +23,8 @@ Built an interactive Power BI dashboard to visualize delivery performance and pr
 ## 🎯 Conclusion
 Shipping mode impacts delivery performance more than region. Optimizing shipping strategy can improve both speed and profitability.
 
+## 📊 Dashboard Preview
+
+![Dashboard](Project SS.png)
+
+
